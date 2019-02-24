@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    android:background="#000000"
+
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.jastworld.interfaceplugin.Settings"
+    android:accessibilityLiveRegion="polite"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Settings Page"
+        android:textColor="#FFFFFF"
+        android:textAlignment="center"
+        android:textSize="50sp"
+        />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Audio"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Music"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:id="@+id/musicChoice"
+            android:theme="@style/MyCheckBox"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Voice Over"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:id="@+id/voiceOverChoice"
+            android:theme="@style/MyCheckBox"
+            android:onClick="onCheckboxClicked"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Menu Color"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Default"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/defaultColor"
+            android:theme="@style/MyCheckBox"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bright"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/brightColor"
+            android:theme="@style/MyCheckBox"
+            android:onClick="onCheckboxClicked"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Distance Units"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"/>
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Meters"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:id="@+id/metersUnit"
+            android:theme="@style/MyCheckBox"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Feet"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:id="@+id/feetsUnit"
+            android:theme="@style/MyCheckBox"
+            android:onClick="onCheckboxClicked"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Level of Feedback Detail"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            />
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Low Feedback Detail"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/lowDetail"
+            android:theme="@style/MyCheckBox"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:text="High Feedback Detail"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/highDetail"
+            android:theme="@style/MyCheckBox"
+            android:onClick="onCheckboxClicked"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/settingSave"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:text="SAVE SETTINGS"
+        android:layout_weight="0.22" />
+
+</LinearLayout>

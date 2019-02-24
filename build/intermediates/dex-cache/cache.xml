@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/jyi1729/Sight City/app/build/intermediates/pre-dexed/debug/classes_4209fa8b768413ca3433cb2a7571637e0e01b899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jyi1729/Sight City/app/libs/EasyTTS.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="077004acf3c6f0a501e147738aa2d9785ab06309">
+        <dex dex="/home/jyi1729/Sight City/app/build/intermediates/pre-dexed/debug/EasyTTS_b232ff996b2e4902b2a4d0c53d80cefa901157ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jyi1729/.android/build-cache/701f90bcfd7163993000ecdbf65cc22420455bb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/jyi1729/Sight City/app/build/intermediates/pre-dexed/debug/classes_7510f9031419b2770a45e8f26c4f36c77c9160dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jyi1729/Sight City/app/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27221efc5cd7abf927b2a7411504a70949c27529">
+        <dex dex="/home/jyi1729/Sight City/app/build/intermediates/pre-dexed/debug/unity-classes_a0f88e0ca150e001491379d94055e4f8624b4c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jyi1729/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/jyi1729/Sight City/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_9302bf9511ae0a047c4f4284150e4469247aefa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jyi1729/.android/build-cache/38a9df9d692688c67f7e6df1af25bdf335a29629/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/jyi1729/Sight City/app/build/intermediates/pre-dexed/debug/classes_7759b3744851d57e49f9f7efb40cc474c3049b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jyi1729/.android/build-cache/38a9df9d692688c67f7e6df1af25bdf335a29629/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/jyi1729/Sight City/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a0a6d8fe7963e9f1ade990eac7495c4d07aec81f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jyi1729/.android/build-cache/3fdb3ed422399001d784453062f0589353634b65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/jyi1729/Sight City/app/build/intermediates/pre-dexed/debug/classes_7337cdace9ac3c05546c63d8167483e21da730af.jar" />
+    </item>
+
+</items>

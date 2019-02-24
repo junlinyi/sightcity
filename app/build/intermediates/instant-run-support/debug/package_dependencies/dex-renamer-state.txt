@@ -1,0 +1,25 @@
+#Fri Sep 29 00:03:35 EDT 2017
+renamed.7=classes.dex
+renamed.6=classes7.dex
+renamed.5=classes4.dex
+renamed.4=classes5.dex
+renamed.3=classes8.dex
+renamed.2=classes2.dex
+renamed.1=classes6.dex
+renamed.0=classes3.dex
+base.7=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7337cdace9ac3c05546c63d8167483e21da730af
+base.6=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/2/EasyTTS_b232ff996b2e4902b2a4d0c53d80cefa901157ec
+base.5=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7510f9031419b2770a45e8f26c4f36c77c9160dc
+base.4=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_a0a6d8fe7963e9f1ade990eac7495c4d07aec81f
+base.3=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_a0f88e0ca150e001491379d94055e4f8624b4c70
+base.2=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4209fa8b768413ca3433cb2a7571637e0e01b899
+base.1=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_9302bf9511ae0a047c4f4284150e4469247aefa6
+base.0=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7759b3744851d57e49f9f7efb40cc474c3049b66
+file.7=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7337cdace9ac3c05546c63d8167483e21da730af/classes.dex
+file.6=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/2/EasyTTS_b232ff996b2e4902b2a4d0c53d80cefa901157ec/classes.dex
+file.5=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7510f9031419b2770a45e8f26c4f36c77c9160dc/classes.dex
+file.4=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_a0a6d8fe7963e9f1ade990eac7495c4d07aec81f/classes.dex
+file.3=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_a0f88e0ca150e001491379d94055e4f8624b4c70/classes.dex
+file.2=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4209fa8b768413ca3433cb2a7571637e0e01b899/classes.dex
+file.1=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_9302bf9511ae0a047c4f4284150e4469247aefa6/classes.dex
+file.0=/home/jyi1729/Sight City/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7759b3744851d57e49f9f7efb40cc474c3049b66/classes.dex

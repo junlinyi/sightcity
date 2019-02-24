@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_start_point.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_start_point.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_map_select.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_map_select.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_main_menu.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_room_select.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_room_select.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_confirm_play.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_confirm_play.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_floor_select.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_floor_select.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_end_point.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_end_point.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/activity_close_page.xml",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/layout/activity_close_page.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/res/layout/notification_template_part_time.xml"
+    }
+]

@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:4:5-45
+uses-sdk
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/jyi1729/.android/build-cache/701f90bcfd7163993000ecdbf65cc22420455bb4/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/jyi1729/.android/build-cache/3fdb3ed422399001d784453062f0589353634b65/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/jyi1729/.android/build-cache/38a9df9d692688c67f7e6df1af25bdf335a29629/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml
+uses-feature#android.software.leanback
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:13:9-49
+supports-screens
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:16:5-21:40
+	android:largeScreens
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:18:9-36
+	android:smallScreens
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:20:9-36
+	android:normalScreens
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:19:9-37
+	android:xlargeScreens
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:21:9-37
+	android:anyDensity
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:17:9-34
+uses-feature#0x00020000
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:23:5-54
+	android:glEsVersion
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:23:19-51
+uses-permission#android.permission.VIBRATE
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:25:22-63
+uses-feature#android.hardware.touchscreen
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:28:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:31:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:34:9-72
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:37:5-89
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:37:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:38:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:39:5-88
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:39:30-85
+application
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:41:5-75:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/jyi1729/.android/build-cache/2fc89c641daf204d54c6cd9a74c3e0ae0b4596bf/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/jyi1729/.android/build-cache/701f90bcfd7163993000ecdbf65cc22420455bb4/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/jyi1729/.android/build-cache/3fdb3ed422399001d784453062f0589353634b65/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/jyi1729/.android/build-cache/38a9df9d692688c67f7e6df1af25bdf335a29629/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:46:9-41
+	android:debuggable
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:43:9-35
+	android:icon
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:44:9-42
+	android:banner
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:42:9-46
+	android:theme
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:47:9-50
+	android:isGame
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:45:9-30
+activity#com.jastworld.interfaceplugin.UnityPlayerActivity
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:48:9-57:20
+	android:screenOrientation
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:51:13-45
+	android:launchMode
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:52:13-44
+	android:configChanges
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:50:13-170
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:49:13-48
+meta-data#unityplayer.UnityActivity
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:54:13-56:40
+	android:value
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:56:17-37
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:55:17-57
+activity#com.jastworld.interfaceplugin.EndPoint
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:58:9-46
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:58:19-43
+activity#com.jastworld.interfaceplugin.Settings
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:59:9-46
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:59:19-43
+activity#com.jastworld.interfaceplugin.MainActivity
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:60:9-67:20
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:60:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:61:13-66:29
+action#android.intent.action.MAIN
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:62:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:64:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:65:17-86
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:65:27-83
+activity#com.jastworld.interfaceplugin.MainMenu
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:68:9-46
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:68:19-43
+activity#com.jastworld.interfaceplugin.StartPoint
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:69:9-48
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:69:19-45
+activity#com.jastworld.interfaceplugin.FloorSelect
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:70:9-49
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:70:19-46
+activity#com.jastworld.interfaceplugin.MapSelect
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:71:9-47
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:71:19-44
+activity#com.jastworld.interfaceplugin.RoomSelect
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:72:9-48
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:72:19-45
+activity#com.jastworld.interfaceplugin.ConfirmPlay
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:73:9-49
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:73:19-46
+activity#com.jastworld.interfaceplugin.ClosePage
+ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:74:9-56
+	android:name
+		ADDED from /home/jyi1729/Sight City/app/src/main/AndroidManifest.xml:74:19-44

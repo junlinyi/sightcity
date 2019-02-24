@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_close_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.jastworld.interfaceplugin.ClosePage">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="End Screen"
+            android:layout_weight="1"
+            android:layout_row="0"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="40dp"
+            android:padding="25dp"
+            android:layout_gravity="center_horizontal" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Time Spent"
+            android:layout_weight="1"
+            android:layout_row="0"
+            android:id="@+id/time"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp"
+            android:padding="25dp"
+            android:layout_gravity="center_horizontal" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Collisions made"
+            android:layout_weight="1"
+            android:id="@+id/collisions"
+            android:layout_row="0"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp"
+            android:padding="25dp"
+            android:layout_gravity="center_horizontal" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Restart with the same start and end point"
+            android:onClick="restartSameGame"
+            android:textSize="25dp"
+            android:background="@drawable/border_list"
+            android:accessibilityLiveRegion="polite"
+            android:padding="10dp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Choose new start and end point"
+            android:onClick="restartDifferentGame"
+            android:textSize="25dp"
+            android:background="@drawable/border_list"
+            android:accessibilityLiveRegion="polite"
+            android:padding="10dp"
+
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Quit"
+            android:onClick="quit"
+            android:textSize="25dp"
+            android:background="@drawable/border_list"
+            android:accessibilityLiveRegion="polite"
+            android:padding="10dp"
+            />
+    </LinearLayout>
+
+
+
+</LinearLayout>

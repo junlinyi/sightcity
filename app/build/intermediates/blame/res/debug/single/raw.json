@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/raw/mapselect.mp3",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/raw/mapselect.mp3"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/raw/settings.mp3",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/raw/settings.mp3"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/raw/startpoint.mp3",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/raw/startpoint.mp3"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/raw/endpoint.mp3",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/raw/endpoint.mp3"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/raw/confirmplay.mp3",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/raw/confirmplay.mp3"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/raw/mainmenu.mp3",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/raw/mainmenu.mp3"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/raw/roomselect.mp3",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/raw/roomselect.mp3"
+    },
+    {
+        "merged": "/home/jyi1729/Sight City/app/build/intermediates/res/merged/debug/raw/welcome.mp3",
+        "source": "/home/jyi1729/Sight City/app/src/main/res/raw/welcome.mp3"
+    }
+]
